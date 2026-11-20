@@ -1,0 +1,13 @@
+{
+  "functions": {
+    "api/index.py": {
+      "includeFiles": "server.py,src/**,data/**,outputs/**,Hung_Phat_Test_Data_5_Steps.xlsx"
+    }
+  },
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/api/index"
+    }
+  ]
+}

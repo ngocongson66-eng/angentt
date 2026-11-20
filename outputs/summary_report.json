@@ -1,0 +1,53 @@
+{
+  "total_requests": 54,
+  "status_counts": {
+    "CÓ THỂ TIẾP TỤC": 54,
+    "CẦN BỔ SUNG THÔNG TIN": 0,
+    "CHƯA ĐÁP ỨNG": 0,
+    "CHỜ DUYỆT": 0
+  },
+  "total_value_eligible_and_pending_vnd": 687420000.0,
+  "total_value_formatted": "687,420,000 VNĐ",
+  "regional_kpi": [
+    {
+      "region": "Miền Bắc",
+      "target_enterprises": 18,
+      "eligible_count": 18,
+      "total_score": 100.0,
+      "sales_vnd": 215460000.0,
+      "interest_rate": "100.0%",
+      "rank_label": "Miền Bắc (18/18 Đạt)",
+      "notes": "Tỷ lệ hợp lệ: 100.0% - Pipeline: 215 Tr VNĐ"
+    },
+    {
+      "region": "Miền Trung",
+      "target_enterprises": 18,
+      "eligible_count": 18,
+      "total_score": 100.0,
+      "sales_vnd": 229140000.0,
+      "interest_rate": "100.0%",
+      "rank_label": "Miền Trung (18/18 Đạt)",
+      "notes": "Tỷ lệ hợp lệ: 100.0% - Pipeline: 229 Tr VNĐ"
+    },
+    {
+      "region": "Miền Nam",
+      "target_enterprises": 18,
+      "eligible_count": 18,
+      "total_score": 100.0,
+      "sales_vnd": 242820000.0,
+      "interest_rate": "100.0%",
+      "rank_label": "Miền Nam (18/18 Đạt)",
+      "notes": "Tỷ lệ hợp lệ: 100.0% - Pipeline: 243 Tr VNĐ"
+    }
+  ],
+  "financial_kpi": {
+    "budget_match_rate": 100.0,
+    "budget_within_count": 54,
+    "budget_cases_count": 54,
+    "average_discount_rate": 5.0,
+    "total_savings_vnd": 36180000.0,
+    "ontime_rate": 100.0,
+    "ontime_count": 54,
+    "delivery_cases_count": 54
+  }
+}
